@@ -1,0 +1,51 @@
+nome,curso,metodo_principal,horas_estudo_semana,nota_media,usa_tecnica_revisao,periodo
+Alice Souza,Engenharia,Pomodoro,12,8.5,True,Noturno
+Bruno Lima,Direito,Resumos,8,7.2,False,Matutino
+Carla Mendes,Medicina,Flashcards,20,9.1,True,Matutino
+Diego Rocha,Administração,Leitura passiva,5,5.8,False,Vespertino
+Eduarda Pires,Psicologia,Mapas mentais,10,7.8,True,Noturno
+Felipe Nunes,Engenharia,Flashcards,15,8.9,True,Matutino
+Gabriela Teixeira,Direito,Resumos,9,6.5,False,Vespertino
+Henrique Alves,Medicina,Pomodoro,18,9.3,True,Matutino
+Isabela Cardoso,Administração,Leitura passiva,4,5.1,False,Noturno
+João Ferreira,Psicologia,Mapas mentais,11,7.4,True,Vespertino
+Karina Moura,Engenharia,Pomodoro,13,8.2,True,Noturno
+Lucas Barbosa,Direito,Flashcards,7,6.8,False,Matutino
+Mariana Costa,Medicina,Resumos,16,8.7,True,Matutino
+Nathan Oliveira,Administração,Mapas mentais,6,6.1,True,Vespertino
+Olivia Ramos,Psicologia,Pomodoro,9,7.6,False,Noturno
+Paulo Andrade,Engenharia,Resumos,14,8.0,True,Matutino
+Quintina Farias,Direito,Leitura passiva,5,5.5,False,Vespertino
+Rafael Gomes,Medicina,Flashcards,19,9.0,True,Matutino
+Sara Batista,Administração,Pomodoro,8,6.9,True,Noturno
+Thiago Lemos,Psicologia,Resumos,10,7.1,False,Vespertino
+Ursula Vieira,Engenharia,Mapas mentais,12,7.9,True,Matutino
+Victor Dias,Direito,Leitura passiva,4,5.3,False,Noturno
+Wanda Correia,Medicina,Pomodoro,17,8.8,True,Matutino
+Xavier Matos,Administração,Flashcards,7,6.4,False,Vespertino
+Yasmin Freitas,Psicologia,Resumos,11,7.3,True,Noturno
+André Cavalcante,Engenharia,Pomodoro,16,8.6,True,Matutino
+Beatriz Santana,Direito,Mapas mentais,8,6.7,True,Vespertino
+César Ribeiro,Medicina,Resumos,15,8.4,True,Matutino
+Débora Monteiro,Administração,Leitura passiva,3,4.9,False,Noturno
+Eduardo Soares,Psicologia,Flashcards,10,7.5,True,Matutino
+Fernanda Cunha,Engenharia,Mapas mentais,13,8.1,True,Vespertino
+Guilherme Paiva,Direito,Pomodoro,9,7.0,False,Noturno
+Helena Bastos,Medicina,Flashcards,21,9.4,True,Matutino
+Igor Nascimento,Administração,Resumos,6,6.2,False,Vespertino
+Juliana Campos,Psicologia,Mapas mentais,12,7.7,True,Noturno
+Kevin Araújo,Engenharia,Leitura passiva,5,5.6,False,Matutino
+Larissa Medeiros,Direito,Flashcards,8,6.6,True,Vespertino
+Marcelo Fonseca,Medicina,Pomodoro,18,9.2,True,Matutino
+Natália Guimarães,Administração,Resumos,7,6.3,False,Noturno
+Omar Pereira,Psicologia,Leitura passiva,4,5.0,False,Vespertino
+Paula Tavares,Engenharia,Flashcards,14,8.3,True,Matutino
+Quirino Lacerda,Direito,Mapas mentais,9,6.9,True,Noturno
+Renata Siqueira,Medicina,Resumos,17,8.9,True,Matutino
+Sílvio Marques,Administração,Pomodoro,8,6.8,True,Vespertino
+Tatiane Azevedo,Psicologia,Flashcards,11,7.6,False,Matutino
+Ulisses Brito,Engenharia,Resumos,13,7.8,True,Noturno
+Vanessa Leite,Direito,Leitura passiva,4,5.2,False,Matutino
+Willian Torres,Medicina,Mapas mentais,16,8.6,True,Vespertino
+Xênia Prado,Administração,Flashcards,6,6.0,False,Noturno
+Zilda Carvalho,Psicologia,Pomodoro,10,7.2,True,Matutino
